@@ -1,7 +1,7 @@
 <h1 align="center">GoRestaurant 🍲</h1>
 
 
-<p align="justify">Um gerenciador de cardápios de restaurante, que torna possível o usuário criar novos pratos. O projeto serviu para a prática para refatorar um código de classes em Typescript.</p>
+<p align="justify">Um gerenciador de cardápios de restaurante, que torna possível o usuário criar novos pratos. O projeto serviu para a prática em refatorar um código de classes em Typescript.</p>
 
 
 ### :nut_and_bolt: Tecnologias
